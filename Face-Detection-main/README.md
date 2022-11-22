@@ -1,1 +1,1 @@
-# Face-Detection
+# Attendance Management using Face Recognition
